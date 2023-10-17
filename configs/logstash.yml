@@ -1,0 +1,4 @@
+config.reload.automatic: true
+log:
+  level: info
+  format: plain
